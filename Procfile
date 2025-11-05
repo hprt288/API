@@ -1,1 +1,1 @@
-web: gunicorn api_ftp:app
+web: gunicorn main:app
